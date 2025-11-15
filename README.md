@@ -1,6 +1,6 @@
 #  E-Ticaret Satış Veri Analizi
 
-Bu proje, bir e-ticaret sitesine ait (kurgusal veya gerçek) bir satış veri setini analiz ederek şirketin satış performansını, popüler ürünlerini ve bölgesel dağılımını anlamayı amaçlamaktadır.
+Bu proje, bir e-ticaret sitesine ait  bir satış veri setini analiz ederek şirketin satış performansını, popüler ürünlerini ve bölgesel dağılımını anlamayı amaçlamaktadır.
 
 Bu analizle birlikte yönetime "hangi ürünlere odaklanmalı" ve "hangi şehirlerde pazarlama artırılmalı" gibi konularda içgörüler sunulması hedeflenmektedir.
 
@@ -11,7 +11,7 @@ Bu analizle birlikte yönetime "hangi ürünlere odaklanmalı" ve "hangi şehirl
 Proje, veri analizi ve görselleştirme için aşağıdaki temel Python kütüphanelerini kullanmaktadır:
 
 * **Pandas:** Veri yükleme, temizleme ve hazırlık işlemleri için.
-* **Numpy:** Keşifsel veri analizi (EDA) sırasında sayısal hesaplamalar için.
+* **Numpy:** Keşifsel veri analizi  sırasında sayısal hesaplamalar için.
 * **Matplotlib:** Analiz sonuçlarını görselleştirmek için.
 
 ---
@@ -21,8 +21,8 @@ Proje, veri analizi ve görselleştirme için aşağıdaki temel Python kütüph
 Proje dört ana aşamadan oluşmaktadır:
 
 1.  **Veri Yükleme ve Hazırlık:** Veri setinin Pandas DataFrame'e yüklenmesi, eksik verilerin (varsa) ele alınması ve veri tiplerinin düzeltilmesi.
-2.  **Keşifsel Veri Analizi (EDA):** Veri setinin temel istatistiklerinin çıkarılması, en çok satan ürünlerin, en çok satış yapılan şehirlerin ve zaman içindeki satış trendlerinin incelenmesi.
-3.  **Veri Görselleştirme:** EDA sırasında elde edilen bulguların Matplotlib kütüphanesi kullanılarak grafiklere (çubuk grafikler, çizgi grafikler vb.) dökülmesi.
+2.  **Keşifsel Veri Analizi :** Veri setinin temel istatistiklerinin çıkarılması, en çok satan ürünlerin, en çok satış yapılan şehirlerin ve zaman içindeki satış trendlerinin incelenmesi.
+3.  **Veri Görselleştirme:** EDA sırasında elde edilen bulguların Matplotlib kütüphanesi kullanılarak grafiklere  dökülmesi.
 4.  **Raporlama:** Elde edilen içgörülerin ve sonuçların özetlenmesi.
 
 ---
